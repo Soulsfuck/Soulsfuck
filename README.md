@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @Soulsfuck
-- 👀 I’m interested in hacker you
-- 🌱 I’m currently learning cybersecurty
-- 💞️ I’m looking to collaborate on peoples
-- 📫 How to reach me in email
-- 😄 Pronouns: neuter
-- ⚡ Fun fact: hacking
 
-<!---
-Soulsfuck/Soulsfuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
 ░░▄▄▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▄▄░░
 ░▄████▄░░░░░░░░░░░░░░░░░░░░░░░▄▄████▄░
