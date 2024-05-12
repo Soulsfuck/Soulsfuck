@@ -50,6 +50,15 @@
       src="https://github-profile-trophy.vercel.app/?username=Soulsfuck&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
+
+  ## DRAW ASCII 
+
+░░┌──┐░░░░░░░░░░┌──┐░░
+░╔╡▐▐╞╝░░┌──┐░░╔╡▐▐╞╝░
+░░└╥╥┘░░╚╡▌▌╞╗░░└╥╥┘░░
+░░░╚╚░░░░└╥╥┘░░░░╚╚░░░
+░░░░░░░░░░╝╝░░░░░░░░░░
+ 
 </p>
 
 ---
